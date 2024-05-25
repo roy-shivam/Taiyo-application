@@ -17,7 +17,7 @@ Contact management React application with charts and maps to visualize covid cas
 
 ## Demo
 
-[Live Demo](https://)
+[Live Demo](https://taiyo-application-f5lw.vercel.app/)
 
 <br/>
 
