@@ -25,7 +25,7 @@ Contact management React application with charts and maps to visualize covid cas
 
 - Fork or directly clone this repository to your local machine
 - Use the `npm`` install` command to install dependencies
-- Once the dependencies are installed, use the `npm start` command inside the root directory to open the app in your local browser of choice
+- Once the dependencies are installed, use the `npm run dev` command inside the root directory to open the app in your local browser of choice
 
 <br/>
 
